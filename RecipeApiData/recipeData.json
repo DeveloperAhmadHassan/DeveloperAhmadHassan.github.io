@@ -48,6 +48,26 @@
                     "name": "Pepper",
                     "category": "Spices"
                 }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Crack the eggs into a bowl and beat them.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 2,
+                    "description": "Melt the butter in a non-stick skillet over medium heat.",
+                    "duration": 2,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 3,
+                    "description": "Pour the beaten eggs into the skillet and cook, stirring occasionally, until they are set.",
+                    "duration": 8,
+                    "duration_unit": "Minutes"
+                }
             ]
         },
         {
@@ -95,6 +115,32 @@
                     "notes": "Grated",
                     "name": "Parmesan Cheese",
                     "category": "Dairy"
+                }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Cook the pasta according to package instructions.",
+                    "duration": 10,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 2,
+                    "description": "In a separate pan, cook the chicken breast until it is no longer pink inside.",
+                    "duration": 12,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 3,
+                    "description": "In the same pan, melt the butter and add the cream.",
+                    "duration": 4,
+                    "duration_unit": "Hours"
+                },
+                {
+                    "step_number": 4,
+                    "description": "Add the cooked pasta, cooked chicken, and grated Parmesan cheese to the pan. Stir well to combine.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
                 }
             ]
         },
@@ -175,6 +221,62 @@
                     "notes": "Crumbled",
                     "name": "feta cheese",
                     "category": "Dairy"
+                }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Preheat the oven to 350°F (175°C).",
+                    "duration": 10,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 2,
+                    "description": "Heat olive oil in a skillet over medium heat. Add onions and cook until softened.",
+                    "duration": 10,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 3,
+                    "description": "Add spinach and cook until wilted. Remove from heat and set aside.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 4,
+                    "description": "In a mixing bowl, whisk together eggs, milk, salt, and pepper.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 5,
+                    "description": "Stir in feta cheese and the cooked spinach mixture.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 6,
+                    "description": "Pour the mixture into a greased baking dish.",
+                    "duration": null,
+                    "duration_unit": null
+                },
+                {
+                    "step_number": 7,
+                    "description": "Bake for 25-30 minutes or until the frittata is set and the top is golden brown.",
+                    "duration": 30,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 8,
+                    "description": "Remove from the oven and let it cool for a few minutes.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 9,
+                    "description": "Cut into slices and serve warm.",
+                    "duration": null,
+                    "duration_unit": null
                 }
             ]
         },
@@ -264,6 +366,44 @@
                     "name": "chocolate shavings",
                     "category": "Baking"
                 }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Brew strong coffee and let it cool to room temperature.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 1,
+                    "description": "In a bowl, beat egg yolks and sugar until thick and pale yellow.",
+                    "duration": 10,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 1,
+                    "description": "Add softened mascarpone cheese to the egg yolk mixture and beat until well combined.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 1,
+                    "description": "In a separate bowl, beat egg whites until stiff peaks form.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 1,
+                    "description": "Gently fold the beaten egg whites into the mascarpone mixture.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 1,
+                    "description": "Dip each ladyfinger into the coffee mixture and arrange a layer of soaked ladyfingers in a rectangular dish.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                }
             ]
         },
         {
@@ -335,6 +475,56 @@
                     "notes": "Use as per your preference",
                     "name": "sprinkles or edible decorations",
                     "category": "Baking"
+                }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Preheat the oven to 300°F (150°C) and line baking sheets with parchment paper.",
+                    "duration": 10,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 2,
+                    "description": "In a bowl, combine almond flour and powdered sugar. Sift and set aside.",
+                    "duration": 2,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 3,
+                    "description": "In a separate bowl, beat egg whites until foamy. Gradually add granulated sugar and continue beating until stiff peaks form.",
+                    "duration": 10,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 4,
+                    "description": "Gently fold the dry ingredients into the egg white mixture until well combined.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 5,
+                    "description": "Transfer the batter into a piping bag fitted with a round tip. Pipe small circles onto the prepared baking sheets.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 6,
+                    "description": "Tap the baking sheets on the counter to remove any air bubbles. Let the piped macarons rest for about 30 minutes to form a skin.",
+                    "duration": 30,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 7,
+                    "description": "Preheat the oven to 300°F (150°C) again. Bake the macarons for about 15-18 minutes, rotating the baking sheets halfway through.",
+                    "duration": 18,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 8,
+                    "description": "Remove the macarons from the oven and let them cool completely before filling and decorating.",
+                    "duration": 2,
+                    "duration_unit": "Minutes"
                 }
             ]
         },
@@ -424,6 +614,44 @@
                     "name": "Pepper",
                     "category": "Spices"
                 }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "In a large pot, bring salted water to a boil. Cook spaghetti pasta according to package instructions until al dente.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 2,
+                    "description": "In a separate skillet, heat olive oil over medium heat. Add chopped onions and minced garlic. Sauté until translucent.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 3,
+                    "description": "In a mixing bowl, combine ground beef, bread crumbs, beaten egg, salt, and pepper. Mix well to form meatballs.",
+                    "duration": 0,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 4,
+                    "description": "Place the meatballs in the skillet with sautéed onions and garlic. Cook until browned on all sides.",
+                    "duration": 15,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 5,
+                    "description": "Pour tomato sauce into the skillet. Stir to combine with the meatballs. Simmer for 10-15 minutes, allowing the flavors to meld together.",
+                    "duration": 15,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 6,
+                    "description": "Drain cooked spaghetti and add it to the skillet with the sauce and meatballs. Toss to coat the pasta evenly.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                }
             ]
         },
         {
@@ -503,6 +731,38 @@
                     "notes": "thyme, rosemary, or basil",
                     "name": "fresh herbs",
                     "category": "Produce"
+                }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Heat olive oil in a large skillet over medium heat. Add diced onion and minced garlic. Sauté until the onion becomes translucent.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 2,
+                    "description": "Add the cubed eggplant, zucchini, and bell pepper to the skillet. Cook for 10 minutes, stirring occasionally.",
+                    "duration": 10,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 3,
+                    "description": "Add the diced tomatoes and fresh herbs to the skillet. Season with salt and pepper. Cook for an additional 15 minutes, or until the vegetables are tender.",
+                    "duration": 15,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 4,
+                    "description": "Remove from heat and let the Ratatouille cool for a few minutes before serving.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 5,
+                    "description": "Serve the Ratatouille warm as a side dish or as a main course with crusty bread or rice.",
+                    "duration": 15,
+                    "duration_unit": "Seconds"
                 }
             ]
         },
@@ -591,6 +851,44 @@
                     "notes": "For frying",
                     "name": "vegetable oil",
                     "category": "Cooking Oil"
+                }
+            ],
+            "steps": [
+                {
+                    "step_number": 1,
+                    "description": "Place the cooked chickpeas, onion, garlic, fresh parsley, and fresh cilantro in a food processor. Pulse until finely chopped but not pureed.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 2,
+                    "description": "Transfer the mixture to a mixing bowl. Add ground cumin, ground coriander, baking powder, salt, and pepper. Mix well.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 3,
+                    "description": "Shape the mixture into small patties, about 1 inch in diameter.",
+                    "duration": 5,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 4,
+                    "description": "Heat vegetable oil in a frying pan over medium heat. Fry the falafel patties until golden brown and crispy on both sides.",
+                    "duration": 15,
+                    "duration_unit": "Minutes"
+                },
+                {
+                    "step_number": 5,
+                    "description": "Remove the falafel from the pan and place them on a paper towel-lined plate to drain excess oil.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
+                },
+                {
+                    "step_number": 6,
+                    "description": "Serve the falafel hot with pita bread, tahini sauce, and your choice of toppings and salads.",
+                    "duration": 1,
+                    "duration_unit": "Minute"
                 }
             ]
         }
