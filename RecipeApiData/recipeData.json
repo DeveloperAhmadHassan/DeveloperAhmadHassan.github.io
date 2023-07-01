@@ -13,6 +13,7 @@
             "time_unit": "Minutes",
             "level": "Easy",
             "type": "Non-Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/4.jpeg",
             "category_name": "Breakfast",
             "ingredients": [
                 {
@@ -80,6 +81,7 @@
             "time_unit": "Minutes",
             "level": "Intermediate",
             "type": "Non-Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/5.jpeg",
             "category_name": "Dinner",
             "ingredients": [
                 {
@@ -153,6 +155,7 @@
             "time_unit": "Minutes",
             "level": "Easy",
             "type": "Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/11.jpeg",
             "category_name": "Breakfast",
             "ingredients": [
                 {
@@ -288,6 +291,7 @@
             "time_unit": "Hours",
             "level": "Difficult",
             "type": "Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/15.jpeg",
             "category_name": "Dessert",
             "ingredients": [
                 {
@@ -413,6 +417,7 @@
             "time_unit": "Hours",
             "level": "Difficult",
             "type": "Non-Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/16.jpeg",
             "category_name": "Dessert",
             "ingredients": [
                 {
@@ -534,6 +539,7 @@
             "time_unit": "Hour",
             "level": "Intermediate",
             "type": "Non-Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/12.jpeg",
             "category_name": "Lunch",
             "ingredients": [
                 {
@@ -659,6 +665,7 @@
             "time_unit": "Hour",
             "level": "Intermediate",
             "type": "Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/14.jpeg",
             "category_name": "Dinner",
             "ingredients": [
                 {
@@ -770,6 +777,7 @@
             "time_unit": "Minutes",
             "level": "Intermediate",
             "type": "Veg",
+            "image_url": "https://raw.githubusercontent.com/DeveloperAhmadHassan/DeveloperAhmadHassan.github.io/main/RecipeApiData/13.jpeg",
             "category_name": "Lunch",
             "ingredients": [
                 {
