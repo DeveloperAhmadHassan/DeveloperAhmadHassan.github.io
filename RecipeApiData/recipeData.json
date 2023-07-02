@@ -275,8 +275,8 @@
                 {
                     "step_number": 9,
                     "description": "Cut into slices and serve warm.",
-                    "duration": null,
-                    "duration_unit": null
+                    "duration": 5,
+                    "duration_unit": "Minutes"
                 }
             ]
         },
