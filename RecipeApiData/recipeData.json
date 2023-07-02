@@ -257,8 +257,8 @@
                 {
                     "step_number": 6,
                     "description": "Pour the mixture into a greased baking dish.",
-                    "duration": null,
-                    "duration_unit": null
+                    "duration": 1,
+                    "duration_unit": "Minute"
                 },
                 {
                     "step_number": 7,
